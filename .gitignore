@@ -1,0 +1,8 @@
+# ignore scss
+/scss
+
+# all html file
+*.html
+
+#pages
+/pages
